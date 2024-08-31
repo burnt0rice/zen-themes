@@ -1,8 +1,6 @@
 @media not (-moz-bool-pref: "zen.view.sidebar-expanded") {
   & .tabbrowser-tab {
     &:not([pinned]) {
-      overflow: visible;
-
       &:hover .tab-icon-stack {
         margin-left: 7px;
       }
