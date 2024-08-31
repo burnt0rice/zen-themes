@@ -1,6 +1,6 @@
-# Collapesed Tab Close Button
+# Collapsed Tab Close Button
 
-This extension adds a close button to the collapsed tabs in Zen Browser.
+This theme adds a close button to the collapsed tabs in Zen Browser.
 
 ## What the extension does
 
