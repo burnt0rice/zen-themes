@@ -18,6 +18,9 @@ Have any suggestions or feedback? Feel free to open an issue in the [GitHub repo
 
 
 ## How to install
+
+> Note: The theme is not yet available in the Zen Browser Theme Store.
+
 1. Go to the [Zen Browser Theme Store](https://zen-browser.app/themes/)
 2. Click on the "Install Theme" button
 3. Enjoy
