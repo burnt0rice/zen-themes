@@ -27,20 +27,3 @@
     }
   }
 }
-
-/* Option: Move the close button to the right */
-@media not (-moz-bool-pref: "zen.view.sidebar-expanded") {
-  @media (-moz-bool-pref: "uc.collapsed-tab-x-button.close-button.right") {
-    & .tabbrowser-tab {
-      &:not([pinned]) {
-        &:hover .tab-icon-stack {
-          margin-left: -9px;
-        }
-
-        &:hover .tab-close-button {
-          margin-left: -28px;
-        }
-      }
-    }
-  }
-}
