@@ -4,13 +4,20 @@ This theme adds a close button to the collapsed tabs in Zen Browser.
 
 ## What the extension does
 
-This theme does:
+This theme does (default) the following things:
 
 - Display a close button on the collapsed tabs
 - On hover, the close button will be shown
 
 
 ![Screenshot of the theme](image.png)
+
+
+## Options
+
+You can customize the theme with the following options:
+
+- Move the close button to the left side of the tab
 
 
 Have any suggestions or feedback? Feel free to open an issue in the [GitHub repository](https://github.com/burnt0rice/zen-themes/issues).
