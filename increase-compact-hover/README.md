@@ -2,6 +2,8 @@
 
 This theme increases the hover area in compact mode of the sidebar and toolbar in the Zen Browser.
 
+> Small warning: This theme may get in the way on some websites.
+
 ## What the theme does
 
 This theme does (default):
