@@ -4,14 +4,17 @@ This theme increases the hover area in compact mode of the sidebar and toolbar i
 
 ## What the theme does
 
-This theme does:
+This theme does (default):
 
 - Increases (``+30px``) the hover area of the sidebar and toolbar in compact mode
 - Makes the sidebar and toolbar more accessible in compact mode
 
-
 ![Screenshot of the theme](image.png)
 
+## What configuration options are available
+
+- Disable the theme for the sidebar
+- Disable the theme for the toolbar
 
 
 Have any suggestions or feedback? Feel free to open an issue in the [GitHub repository](https://github.com/burnt0rice/zen-themes/issues).
