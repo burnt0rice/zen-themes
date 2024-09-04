@@ -15,7 +15,6 @@ This theme does (default):
 
 ## What configuration options are available
 
-- Disable the theme for the sidebar
 - Disable the theme for the toolbar
 
 

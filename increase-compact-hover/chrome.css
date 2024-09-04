@@ -18,18 +18,16 @@
 }
 
 /* Sidebar */
-@media not (-moz-bool-pref: "uc.increase-compact-hover.sidebar.disable") {
-  @media (-moz-bool-pref: "zen.view.compact") {
-    #navigator-toolbox {
-      transform: translateX(calc(-100% + (var(--zen-compact-toolbox-margin-single) / 2) + 30px)) !important;
-    }
+@media (-moz-bool-pref: "zen.view.compact") {
+  #navigator-toolbox {
+    transform: translateX(calc(-100% + (var(--zen-compact-toolbox-margin-single) / 2) + 30px)) !important;
+  }
 
-    #navigator-toolbox:hover,
-    #navigator-toolbox:focus-within,
-    #navigator-toolbox[zen-user-show],
-    #mainPopupSet:has(> #appMenu-popup:hover)~toolbox,
-    #navigator-toolbox:has([open="true"]:not(tab):not(#zen-sidepanel-button)) {
-      transform: none !important;
-    }
+  #navigator-toolbox:hover,
+  #navigator-toolbox:focus-within,
+  #navigator-toolbox[zen-user-show],
+  #mainPopupSet:has(> #appMenu-popup:hover)~toolbox,
+  #navigator-toolbox:has([open="true"]:not(tab):not(#zen-sidepanel-button)) {
+    transform: none !important;
   }
 }
