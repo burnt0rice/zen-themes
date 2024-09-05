@@ -4,11 +4,12 @@ Welcome to the Zen Themes repository! This project is dedicated to creating dive
 
 ## List of Themes
 
-- [Collapsed Tab Close Button](https://github.com/burnt0rice/zen-themes/tree/main/collapsed-tab-close-button)
-- [Increase Compact Hover](https://github.com/burnt0rice/zen-themes/tree/main/increase-compact-hover)
+- [Collapsed Tab Close Button](https://github.com/burnt0rice/zen-themes/tree/main/collapsed-tab-close-button) - Adds a Close-Button to the compact mode tabs
+- [Increase Compact Hover](https://github.com/burnt0rice/zen-themes/tree/main/increase-compact-hover) - Increases the hover area for the toolbar and sidebar
 
+## Suggestions, feedback or theme requests?
 
-Have any suggestions or feedback? Feel free to open an issue in the [GitHub repository](https://github.com/burnt0rice/zen-themes/issues).
+Have any suggestions, feedback or theme requests? Feel free to open an issue in the [GitHub repository](https://github.com/burnt0rice/zen-themes/issues).
 
 ## Stroll through ricefield
 
