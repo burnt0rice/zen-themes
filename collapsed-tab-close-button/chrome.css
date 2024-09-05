@@ -15,13 +15,13 @@
         margin-inline-end: 0 !important;
         margin-left: -8px;
         margin-top: -18px;
-        background-color: var(--zen-colors-secondary) !important;
+        background-color: var(--zen-colors-secondary, rgba(128, 128, 128, 0.3)) !important;
         cursor: pointer;
 
         transition: background-color 0.1s ease-in-out;
 
         &:hover {
-          background-color: var(--zen-main-browser-background) !important;
+          background-color: var(--zen-main-browser-background, rgba(128, 128, 128, 0.2)) !important;
         }
       }
     }
